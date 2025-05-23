@@ -1,0 +1,30 @@
+{
+  "toolbar": {
+    "title": "Transporte estudiantil confiable"
+  },
+  "option": {
+    "home": "Inicio",
+    "assignments": "Asignaciones"
+  },
+  "home": {
+    "title": "Inicio",
+    "welcome": "Bienvenido a FIRSTstudent",
+    "buses": "Autobuses"
+  },
+  "assignments": {
+    "title": "Asignar estudiante al autobús",
+    "new": "Nueva asignación",
+    "studentId": "ID del Estudiante",
+    "busId": "ID del Autobús",
+    "invalidStudent": "ID del estudiante no válido",
+    "invalidBus": "ID del autobús no válido",
+    "alreadyAssigned": "Ya asignado",
+    "districtMismatch": "El estudiante y el autobús pertenecen a distritos diferentes"
+  },
+  "authoringPhrase": {
+      "intro": "Hecho con",
+      "use": "utilizando",
+      "author": "Por  {brand}"
+  }
+}
+

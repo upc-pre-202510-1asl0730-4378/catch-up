@@ -1,0 +1,29 @@
+{
+  "toolbar": {
+    "title": "Trusted student transportation"
+  },
+  "option": {
+    "home": "Home",
+    "assignments": "Assignments"
+  },
+  "home": {
+    "title": "Home",
+    "welcome": "Welcome to FIRSTstudent",
+    "buses": "Buses"
+  },
+  "assignments": {
+    "title": "Assign Student to Bus",
+    "new": "New Assignment",
+    "studentId": "Student ID",
+    "busId": "Bus ID",
+    "invalidStudent": "Invalid Student Id",
+    "invalidBus": "Invalid Bus",
+    "alreadyAssigned": "Already Assigned",
+    "districtMismatch": "Student and Bus belong to different districts"
+  },
+  "authoringPhrase": {
+     "intro": "Made with",
+    "use": "using",
+    "author": "by {brand}"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "buses": [
+    {
+      "id": 1,
+      "vehiclePlate": "ABC-123",
+      "fuelTankType": "Diesel",
+      "districtId": 10,
+      "totalCapacity": 40
+    },
+    {
+      "id": 2,
+      "vehiclePlate": "XYZ-789",
+      "fuelTankType": "Gasoline",
+      "districtId": 20,
+      "totalCapacity": 35
+    },
+    {
+      "id": 3,
+      "vehiclePlate": "LMN-456",
+      "fuelTankType": "Electric",
+      "districtId": 10,
+      "totalCapacity": 50
+    }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "firstName": "María",
+      "lastName": "Pérez",
+      "districtId": 10,
+      "parentId": 100
+    },
+    {
+      "id": 2,
+      "firstName": "Juan",
+      "lastName": "García",
+      "districtId": 20,
+      "parentId": 200
+    },
+    {
+      "id": 3,
+      "firstName": "Lucía",
+      "lastName": "Torres",
+      "districtId": 10,
+      "parentId": 100
+    },
+    {
+      "id": 4,
+      "firstName": "Andrés",
+      "lastName": "Cruz",
+      "districtId": 10,
+      "parentId": 300
+    }
+  ],
+  "assignments": [
+    {
+      "id": 1,
+      "studentId": 1,
+      "busId": 1,
+      "assignedAt": "2025-05-01T08:30:00Z"
+    },
+    {
+      "studentId": 3,
+      "busId": 1,
+      "assignedAt": "2025-05-23T17:26:18.626Z",
+      "id": 2
+    }
+  ]
+}
